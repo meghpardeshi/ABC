@@ -5,8 +5,7 @@
   "main": "app.js",
   "scripts": {
     "test": "mocha 'test/**/*.spec.js'",
-    "start": "node app.js",
-    "start-dev": "nodemon app.js"
+    "start": "node app.js"    
   },
   "author": "Jithin Zacharia",
   "license": "ISC",
