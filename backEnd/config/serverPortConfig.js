@@ -1,5 +1,5 @@
 /**
-* @fileoverview port configuration
+* @fileoverview port configuratio
 */
 
 const port = 4000;
